@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T15:11:03.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ScyzhCrXUejfcCPn1imp" version="21.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T15:12:00.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6y3inEb17YP4nvHC_zat" version="21.2.8" type="github">
   <diagram name="Page-1" id="06tbPVwSqotmteYgba5W">
     <mxGraphModel dx="1024" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="661" y="57" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W4CwJOv0dRvsqOfOB2o--18" value="&lt;p&gt;Réception de l&#39;appel d&#39;offre&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="25" y="121" width="70" height="50" as="geometry" />
+          <mxGeometry x="6" y="100" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W4CwJOv0dRvsqOfOB2o--20" value="OUI" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="319.73" y="97" width="40" height="30" as="geometry" />
@@ -45,8 +45,8 @@
         <mxCell id="W4CwJOv0dRvsqOfOB2o--22" value="Préparation du mail de refus au client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="421" y="37" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W4CwJOv0dRvsqOfOB2o--25" value="FIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="661" y="97" width="40" height="30" as="geometry" />
+        <mxCell id="W4CwJOv0dRvsqOfOB2o--25" value="FIN : NO GO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="636" y="97" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4CwJOv0dRvsqOfOB2o--95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W4CwJOv0dRvsqOfOB2o--26" target="W4CwJOv0dRvsqOfOB2o--93">
           <mxGeometry relative="1" as="geometry" />
@@ -250,8 +250,8 @@
         <mxCell id="W4CwJOv0dRvsqOfOB2o--132" value="Mail avec proposition" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="591" y="2146" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="W4CwJOv0dRvsqOfOB2o--133" value="FIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="701" y="2201" width="40" height="30" as="geometry" />
+        <mxCell id="W4CwJOv0dRvsqOfOB2o--133" value="FIN : GO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="686" y="2201" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4CwJOv0dRvsqOfOB2o--137" value="OUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="381" y="2156" width="40" height="30" as="geometry" />
